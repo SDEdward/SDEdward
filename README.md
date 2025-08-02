@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SDEdward, longer version being SomeDudeEdward
-- 👀 I’m interested in full stack development and Guts and Blackpowder on Roblox
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on anything that I can on!
-- 📫 How to reach me: email, dm on a platform
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m 13
+- Hi, I’m @SDEdward, longer version being SomeDudeEdward
+- I'm interested in new-start
+- I’m currently learning Rust
+- I’m looking to collaborate on anything that I can on!
+- How to reach me: email, dm on a platform
+- Pronouns: he/him
+- Fun fact: I use linux (Fedora to be specific) but i used arch btw
 
 <!---
 SDEdward/SDEdward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
